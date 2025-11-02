@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BIDJA YVES</h1>
 <h3 align="center">A passionate FullStack developer from France</h3>
 
-- 🔭 I’m currently working on [Taskoria](https://github.com/OpyrusDevOp/Taskoria)
+- 🔭 I’m currently working on [Motion Syncher](https://github.com/OpyrusDevOp/Motion_Syncher)
 
 - 🌱 I’m currently learning **DevOps**
 
